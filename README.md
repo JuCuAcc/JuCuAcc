@@ -53,8 +53,10 @@
 
 ### :fire: My Stats :
 
-<div align="center">
+<div align="left">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuCuAcc)](https://git.io/streak-stats)
+</div>
+<div align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuCuAcc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
