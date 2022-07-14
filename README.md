@@ -51,6 +51,7 @@
 
 ---
 
+<div  align="center">
 ### :fire: My Stats :
 
 
@@ -61,3 +62,4 @@
 
 
 
+</div>
