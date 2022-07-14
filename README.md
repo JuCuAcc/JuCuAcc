@@ -36,7 +36,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jucuacc/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jashim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jucuacc/)
 
 
 <div>
@@ -53,6 +53,10 @@
 
 ### :fire: My Stats :
 
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuCuAcc)](https://git.io/streak-stats)
+  
+</div>
 
 
