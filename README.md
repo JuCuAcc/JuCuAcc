@@ -39,7 +39,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jashim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jucuacc/)
 
 
-<!--
+
 ## Technical Skills
 
 <div>
@@ -92,7 +92,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="Visual Studio"    alt="Visual Studio"    width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"              title="Vscode"           **alt="Vscode"         width="40" height="40"/>
 &nbsp;
--->
+
+
 
 <!--
 ## Technical Skills
