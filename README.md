@@ -88,7 +88,7 @@
 &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="Visual Studio"    alt="Visual Studio"    width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"              title="Vscode"           alt="Vscode"         width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"   title="MicrosoftSqlServer"  **alt="MicrosoftSqlServer"    width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"   title="MicrosoftSqlServer"  alt="MicrosoftSqlServer"    width="40" height="40"/>
 &nbsp;
 
 
