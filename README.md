@@ -56,9 +56,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"               title="Apache"          alt="Apache"           width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"         title="Bootstrap"       alt="Bootstrap"        width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"               title="Chrome"          alt="Chrome"           width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg"             title="Codepen"         alt="Codepen"          width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"             title="Codepen"         alt="Codepen"          width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg"             title="Crystal"         alt="Crystal"          width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-wordmark.svg"               title="Csharp"          alt="Csharp"           width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"               title="Csharp"          alt="Csharp"           width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"                   title="Dart"            alt="Dart"             width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg"             title="Firefox"         alt="Firefox"          width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"      title="GitHub"          alt="GitHub"           width="40" height="40"/>&nbsp;
@@ -67,17 +67,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"                           title="Jquery"              alt="Jquery"                width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"                             title="Linux"               alt="Linux"                 width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"                       title="Markdown"            alt="Markdown"              width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"   title="Microsoftsqlserver"  alt="Microsoftsqlserver"    width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg"                                 title="Npm"                 alt="Npm"                   width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-wordmark.svg"                             title="Nuget"               alt="Nuget"                 width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"   title="MicrosoftSqlServer"  alt="MicrosoftSqlServer"    width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"                                 title="Npm"                 alt="Npm"                   width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg"                             title="Nuget"               alt="Nuget"                 width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg"                           title="Pytest"              alt="Pytest"                width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"                           title="Python"              alt="Python"                width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original-wordmark.svg"              title="Selenium"            alt="Selenium"              width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original-wordmark.svg"                      title="Spss"                alt="Spss"                  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"              title="Selenium"            alt="Selenium"              width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"                      title="Spss"                alt="Spss"                  width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"              title="Sqlite"           alt="Sqlite"           width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg"              title="Trello"           alt="Trello"           width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"              title="Trello"           alt="Trello"           width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"      title="Typescript"       alt="Typescript"       width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"  title="Visual Studio"    alt="Visual Studio"    width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  title="Visual Studio"    alt="Visual Studio"    width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"              title="Vscode"           **alt="Vscode"         width="40" height="40"/>
 </div>
 
