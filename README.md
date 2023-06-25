@@ -34,7 +34,11 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems and read tech articles.
+  - **Programming and Coding Platforms**: GeeksforGeeks, HackerRank, LeetCode, CodeChef, Topcoder, Codewars, Project Euler, CodeSignal, CodinGame, AtCoder, Exercism
+  - **Tech Article and Learning Platforms**: Medium, Dev.to, Stack Overflow, DZone, Towards Data Science, Smashing Magazine, SitePoint, FreeCodeCamp, CSS-Tricks, A List Apart
+
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jashim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jucuacc/)
 
