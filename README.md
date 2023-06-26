@@ -35,6 +35,7 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems and read tech articles.
+  
   - **Programming and Coding Platforms**: GeeksforGeeks, HackerRank, LeetCode, CodeChef, Topcoder, Codewars, Project Euler, CodeSignal, CodinGame, AtCoder, Exercism
   - **Tech Article and Learning Platforms**: Medium, Dev.to, Stack Overflow, DZone, Towards Data Science, Smashing Magazine, SitePoint, FreeCodeCamp, CSS-Tricks, A List Apart
 
